@@ -1,7 +1,5 @@
- # `Bio-Data` for job-application
-A Bio-data for job application using React.js,CSS
- 
-
+ # `Bio-data for marriage`
+A frontend page using React, CSS
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+ ### `Screenshot`
  ### `Screenshot`
  
-![Screenshot 2024-08-20 091347](https://github.com/user-attachments/assets/90c8eaec-132a-4099-8793-c5f3d386d0ab)
+![Screenshot 2024-08-20 103052](https://github.com/user-attachments/assets/bd40f358-e5c8-49c1-b5d2-1ce15b98c3db)
